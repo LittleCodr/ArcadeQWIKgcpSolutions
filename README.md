@@ -24,20 +24,6 @@ Make sure to **subscribe** and turn on the bell icon so you don't miss new walkt
 
 ---
 
-## 📂 Repo Structure
-
-.
-├── README.md
-├── Arcade-Games/
-│ ├── cloud-architect/
-│ ├── data-analyst/
-│ └── machine-learning-specialist/
-├── Skill-Boost-Paths/
-│ ├── getting-started-gcp/
-│ ├── cloud-essentials/
-│ └── security-and-identity/
-└── Videos/
-└── youtube-links.md
 
 Each folder contains detailed lab guides and scripts (when needed). Most labs include terminal commands, screenshots, and YouTube links.
 
